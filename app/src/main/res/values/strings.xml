@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SMOKYTASTY</string>
+    <string name="a">A</string>
+    <string name="s" tools:ignore="DuplicateDefinition"></string>
+    <string name="t" tools:ignore="DuplicateDefinition">T</string>
+
+    <string name="y" tools:ignore="DuplicateDefinition">Y</string>
+    <string name="k">K</string>
+    <string name="o">O</string>
+    <string name="m">M</string>
+
+    <string name="todo">TODO</string>
+</resources>
